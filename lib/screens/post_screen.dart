@@ -172,7 +172,7 @@ class _ViewPostScreenState extends State<ViewPostScreen> {
                                           onPressed: () => print('Like post'),
                                         ),
                                         const Text(
-                                          '109 Mio',
+                                          'Liked by 109.778.334',
                                           style: TextStyle(
                                             fontSize: 14.0,
                                             fontWeight: FontWeight.w600,
@@ -191,7 +191,7 @@ class _ViewPostScreenState extends State<ViewPostScreen> {
                                           },
                                         ),
                                         const Text(
-                                          '97.998.867 Mio',
+                                          '4',
                                           style: TextStyle(
                                             fontSize: 14.0,
                                             fontWeight: FontWeight.w600,
